@@ -124,7 +124,7 @@ public class ApiConfig {
                         } catch (Throwable th) {
                             th.printStackTrace();
                             callback.error("解析配置失败");
-                        }
+                        }http://10.80.8.70:8890/baddychen/baddychen.json
                     }
 
                     @Override
